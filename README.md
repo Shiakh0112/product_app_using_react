@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-### clone :-[
+### clone :-
+[https://github.com/Shiakh0112/product_app_using_react.git]
  
-### Deploy
+### Deploy :-
 [https://66b65a5ae930a1443d45935b--luxury-parfait-4c738a.netlify.app/cart]
 
 ## Available Scripts
